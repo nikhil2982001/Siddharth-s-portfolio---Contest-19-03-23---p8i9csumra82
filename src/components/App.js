@@ -25,8 +25,8 @@ const App = () => {
         </Switch>
       </Router>
     </div>
-  )
-}
+  );
+};
 
 
 export default App;
